@@ -1,0 +1,19 @@
+Model,Metric,Value,Evaluation_Set,Classification_Threshold,Selected_Model
+Logistic Regression,Accuracy,0.779,validation,0.5,Selected
+XGBoost,Accuracy,0.845,validation,0.5,Alternative
+Random Forest,Accuracy,0.803,validation,0.5,Alternative
+Logistic Regression,Precision,0.253,validation,0.5,Selected
+XGBoost,Precision,0.278,validation,0.5,Alternative
+Random Forest,Precision,0.262,validation,0.5,Alternative
+Logistic Regression,Recall,0.735,validation,0.5,Selected
+XGBoost,Recall,0.441,validation,0.5,Alternative
+Random Forest,Recall,0.647,validation,0.5,Alternative
+Logistic Regression,F1,0.376,validation,0.5,Selected
+XGBoost,F1,0.341,validation,0.5,Alternative
+Random Forest,F1,0.373,validation,0.5,Alternative
+Logistic Regression,ROC AUC,0.863,validation,0.5,Selected
+XGBoost,ROC AUC,0.863,validation,0.5,Alternative
+Random Forest,ROC AUC,0.87,validation,0.5,Alternative
+Logistic Regression,PR AUC,0.31,validation,0.5,Selected
+XGBoost,PR AUC,0.289,validation,0.5,Alternative
+Random Forest,PR AUC,0.283,validation,0.5,Alternative

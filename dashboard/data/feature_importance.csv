@@ -1,0 +1,16 @@
+feature,importance,Feature_Label,Feature_Rank,Model,Method
+cat__Suspicious_Keyword_Yes,2.5389292667159324,Suspicious Keyword Yes,1,Logistic Regression,Absolute logistic regression coefficient
+cat__Suspicious_Keyword_No,2.2158098472337104,Suspicious Keyword No,2,Logistic Regression,Absolute logistic regression coefficient
+num__hour,1.6029236659185544,hour,3,Logistic Regression,Absolute logistic regression coefficient
+num__Is_International,1.1137059204108244,Is International,4,Logistic Regression,Absolute logistic regression coefficient
+cat__weekday_Thursday,0.4322361334819334,weekday Thursday,5,Logistic Regression,Absolute logistic regression coefficient
+cat__Merchant_Category_Entertainment,0.3471137965540757,Merchant Category Entertainment,6,Logistic Regression,Absolute logistic regression coefficient
+cat__weekday_Friday,0.3409732123295083,weekday Friday,7,Logistic Regression,Absolute logistic regression coefficient
+cat__Merchant_Category_Fashion,0.3407268796798861,Merchant Category Fashion,8,Logistic Regression,Absolute logistic regression coefficient
+cat__weekday_Saturday,0.2945005728010144,weekday Saturday,9,Logistic Regression,Absolute logistic regression coefficient
+cat__weekday_Tuesday,0.287381253021909,weekday Tuesday,10,Logistic Regression,Absolute logistic regression coefficient
+cat__weekday_Monday,0.266767391927053,weekday Monday,11,Logistic Regression,Absolute logistic regression coefficient
+cat__Merchant_Category_Utilities,0.2487083077569778,Merchant Category Utilities,12,Logistic Regression,Absolute logistic regression coefficient
+cat__Merchant_Category_Grocery,0.2478870865198856,Merchant Category Grocery,13,Logistic Regression,Absolute logistic regression coefficient
+cat__Payment_Method_UPI,0.2280922653016351,Payment Method UPI,14,Logistic Regression,Absolute logistic regression coefficient
+cat__Payment_Method_Debit Card,0.2092841713109423,Payment Method Debit Card,15,Logistic Regression,Absolute logistic regression coefficient

@@ -1,0 +1,6 @@
+Model,Test_Set_Size,Test_Fraud_Cases,Data_Sufficient,Metric,Value,Classification_Threshold,Evaluation_Set
+Logistic Regression,750,63,NO,Precision,0.258,0.5,test
+Logistic Regression,750,63,NO,Recall,0.746,0.5,test
+Logistic Regression,750,63,NO,F1,0.384,0.5,test
+Logistic Regression,750,63,NO,ROC AUC,0.881,0.5,test
+Logistic Regression,750,63,NO,PR AUC,0.421,0.5,test

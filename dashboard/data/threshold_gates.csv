@@ -1,0 +1,4 @@
+Model,Threshold,Precision,Recall,Reported_Gate,Gate_Status,Precision_Target,Recall_Target,Evaluation_Set
+Logistic Regression,0.43,0.25,0.824,no,Fail,0.3,0.8,validation
+Random Forest,0.48,0.281,0.809,no,Fail,0.3,0.8,validation
+XGBoost,0.2,0.257,0.809,no,Fail,0.3,0.8,validation
